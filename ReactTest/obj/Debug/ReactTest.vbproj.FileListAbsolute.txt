@@ -1,7 +1,0 @@
-F:\projects\react\ReactTest\bin\ReactTest.dll.config
-F:\projects\react\ReactTest\bin\ReactTest.dll
-F:\projects\react\ReactTest\bin\ReactTest.pdb
-F:\projects\react\ReactTest\bin\ReactTest.xml
-F:\projects\react\ReactTest\obj\Debug\ReactTest.dll
-F:\projects\react\ReactTest\obj\Debug\ReactTest.xml
-F:\projects\react\ReactTest\obj\Debug\ReactTest.pdb
