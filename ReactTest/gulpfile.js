@@ -21,7 +21,7 @@ gulp.task('copy', function () {
   gulp.src('src/css/*.css')
     .pipe(gulp.dest('dist/css'));
 
-  gulp.src('src/assets/**/*.*')
+  gulp.src('src/images/**/*.*')
     .pipe(gulp.dest('dist/assets'));
 });
 
